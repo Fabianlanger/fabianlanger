@@ -1,0 +1,11 @@
+# Saved LinkedIn source pages contain account-specific UI and are not profile assets.
+/*LinkedIn*.html
+/*LinkedIn*_files/
+
+# Local rendering / extraction files.
+/.preview-browser/
+/.preview/
+/assets/*-preview.png
+/assets/linkedin-experience.txt
+/assets/linkedin-profile.txt
+__pycache__/

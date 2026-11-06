@@ -1,0 +1,30 @@
+{
+  "name": "Fabian Langer",
+  "links": {"linkedin": "https://www.linkedin.com/in/fabian--langer/", "website": "https://www.fabianlanger.nl/"},
+  "intro": "I help organisations translate AI opportunities into practical solutions: from strategy and business cases to production and adoption. My background in Computer Science, Data Science and ML Engineering connects business ambition with what it takes to deliver responsible AI.",
+  "ibs": {
+    "period": "Oct 2021 — present",
+    "roles": ["Lead Consultant · Sep 2026 — present", "Practice Lead Data Science & AI · Jan 2023 — Sep 2026", "Senior Data Science Consultant · Oct 2021 — Jan 2023"],
+    "summary": "Developing consultants, shaping propositions and connecting data science expertise with client needs."
+  },
+  "assignments": [
+    {"company": "Enexis", "logo": "enexis", "period": "Aug 2026 — present", "role": "Business Analist Digitalisering & AI", "umbrella": "IBS", "summary": "Validating AI business cases for strategy and portfolio fit, while equipping teams to accelerate adoption and delivery."},
+    {"company": "Rabobank", "logo": "rabobank", "period": "May 2025 — Aug 2026", "role": "Senior GenAI (Prompt) Engineer", "umbrella": "IBS", "summary": "Scaled AI assistants for customer service, with modular prompts, evaluation and guardrails for reliable adoption."},
+    {"company": "Gasunie", "logo": "gasunie", "period": "Dec 2023 — May 2025", "role": "Machine Learning Engineer", "umbrella": "IBS", "summary": "Brought predictive models into production and established MLOps practices for maintainable, reproducible AI."},
+    {"company": "Landscape AI / Univé", "logo": "landscape", "period": "Jul 2022 — Sep 2023", "role": "Data Scientist", "umbrella": "IBS", "summary": "Delivered production recommendation models for personalised insurance advice, from exploration to monitoring."},
+    {"company": "NIPV", "logo": "nipv", "period": "Feb 2022 — Sep 2023", "role": "Data Specialist", "umbrella": "IBS", "summary": "Applied computer vision, NLP and fire-risk modelling to accelerate public-safety research and support decisions."},
+    {"company": "Respectzorg", "logo": "respect", "period": "Oct — Dec 2021 · continuation", "role": "Data Scientist", "umbrella": "IBS", "summary": "Continued the healthcare engagement at IBS, maintaining continuity across the consultancy transition."},
+    {"company": "Respectzorg", "logo": "respect", "period": "Mar 2020 — Oct 2021", "role": "Data Scientist", "umbrella": "Wiconic", "summary": "Built healthcare analytics, workflow automation and secure QR-based access to support care teams."},
+    {"company": "VOGSY", "logo": "vogsy", "period": "Jan 2018 — May 2019", "role": "Data Analyst → Junior Data Solutions Developer", "umbrella": "Wiconic", "summary": "Turned product-usage data into engagement insights through Google Cloud pipelines and KPI dashboards."}
+  ],
+  "wiconic": {"period": "Oct 2017 — Oct 2021", "roles": ["Lead Data Solutions · Sep 2020 — Oct 2021", "Young Professional in Data Solutions · Oct 2017 — Sep 2020"]},
+  "parallel": [
+    {"company": "Creating Insights (CIU)", "logo": "ciu", "period": "Jul 2024 — present", "role": "AI Trainer", "summary": "Hands-on AI workshops that help professionals apply GenAI, assistants and automation in their own workflows."},
+    {"company": "NISI", "logo": "nisi", "period": "Oct 2017 — Oct 2021", "role": "Lead Data Solutions", "summary": "Built analytics foundations in a direct assignment; later contributed as a guest speaker in training sessions."}
+  ],
+  "education": [
+    {"company": "MIT xPRO", "logo": "mit", "period": "Sep 2025 · professional certificate", "title": "AI Strategy and Leadership Program", "subtitle": "Thriving in the New World of AI", "summary": "Connecting AI strategy, leadership and organisational change."},
+    {"company": "University of Amsterdam", "logo": "uva", "period": "2019 — 2020", "title": "Master · Information Studies: Data Science", "subtitle": "", "summary": "Applied machine learning, statistics and data-driven business innovation."},
+    {"company": "Utrecht University", "logo": "uu", "period": "2014 — 2019", "title": "BSc · Computer Science / Gametechnology", "subtitle": "", "summary": "Software foundations, AI, game design and interaction technology."}
+  ]
+}
